@@ -13,5 +13,5 @@ Hello, use the python language to do the exercises:
   ![image](https://user-images.githubusercontent.com/46494068/191124831-84b1b415-bc36-4eca-a352-003f7c5ce2f1.png)
   
   Resultados del ejercisio 3 (7,8,9,11,12)
-![image](https://user-images.githubusercontent.com/46494068/191125769-362b67b1-8625-4982-a85d-4bbd9a505515.png)
+![image](https://user-images.githubusercontent.com/46494068/191125985-048348c1-bad8-4aa0-9bdc-e74d6fd4e842.png)
 
