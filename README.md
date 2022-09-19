@@ -4,8 +4,9 @@
 
 
 <h2> Hola use el lenguaje de python para hacer los ejercicios: </h2>
-<h2> Hello, use the python language to do the exercises: </h2>
+<h2> Hello use the python language to do the exercises: </h2>
 
+Le agradezco por su tiempo
 
   - Resultados del ejercicio 1 (1,2,0)
   - Results of exercise 1 (1,2,0)
