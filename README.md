@@ -1,5 +1,5 @@
-# Resultados de mis códigos de la prueba para Frontend
-# Results of my test codes for Frontend
+# Resultados de mis códigos de la prueba para Front end
+# Results of my test codes for Front end
 
 
 
