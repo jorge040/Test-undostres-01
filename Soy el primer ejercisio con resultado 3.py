@@ -7,7 +7,7 @@ def partition(nums):
 	pIndex = 0
 
 	for i in range(len(nums)):
-		if nums[i] > 0:		# pivot is 0:
+		if nums[i] > 0:		
 			swap(nums, i, pIndex)
 			pIndex += 1
 
